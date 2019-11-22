@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="catalog_title">Catalog</string>
+    <string name="button_text">Переход</string>
+    <string name="received_message_text">Сообщение из предыдущей активности</string>
+    <string name="search_title">Search</string>
+    <string name="personal_area_title">Personal area</string>
+    <string name="map_title">Map</string>
+</resources>

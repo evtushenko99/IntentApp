@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stroke_width">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="margin_text_view_medium">8dp</dimen>
+    <dimen name="margin_button_medium">8dp</dimen>
+</resources>
